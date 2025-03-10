@@ -55,4 +55,4 @@ To run OptiMinds locally, follow these steps:
 
 **Developed by:** Yasmen  
 **GitHub:** [yasmensh24-meet](https://github.com/yasmensh24-meet)  
-**Contributions:** If you'd like to contribute, please submit a pull request or contact us! 
+**Contributions:** If you'd like to contribute, please submit a request or contact us! 
