@@ -1,7 +1,8 @@
 # Welcome 
 # OPTIMINDS Your First-Aid To Peace 
 
-OptiMinds is a mental health first-aid app designed for teenagers (ages 10-16) in Israel who are struggling with trauma and mental health issues due to recent conflicts. Inspired by Duolingo, OptiMinds provides **interactive, gamified lessons** to help users understand and manage their illness. 
+OptiMinds is a mental health first-aid app designed for teenagers (ages 10-16) in Israel who are struggling with trauma and mental health issues due to recent conflicts. 
+Inspired by Duolingo, OptiMinds provides **interactive, gamified lessons** to help users understand and manage their illness. 
 
 This app **does not replace therapy** but serves as a **first aid tool** for therapists to support their clients.
 
@@ -54,4 +55,4 @@ To run OptiMinds locally, follow these steps:
 
 **Developed by:** Yasmen  
 **GitHub:** [yasmensh24-meet](https://github.com/yasmensh24-meet)  
-**Contributions:** If you'd like to contribute, please submit a pull request or contact us!
+**Contributions:** If you'd like to contribute, please submit a pull request or contact us! 
