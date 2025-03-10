@@ -51,7 +51,7 @@ To run OptiMinds locally, follow these steps:
 - [ ] Improve UI/UX design
 
 
-#### Developer Info
+### Developer Info
 
 **Developed by:** Yasmen  
 **GitHub:** [yasmensh24-meet](https://github.com/yasmensh24-meet)  
