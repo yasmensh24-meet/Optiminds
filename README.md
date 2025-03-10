@@ -48,7 +48,7 @@ To run OptiMinds locally, follow these steps:
 - [x] Add basic units and levels
 - [ ] Implement lesson content for each level
 - [ ] Add progress tracking
-- [ ] Improve UI/UX design
+- [ ] Improve the design
 
 
 ### Developer Info
