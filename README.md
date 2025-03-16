@@ -42,7 +42,7 @@ To run OptiMinds locally, follow these steps:
 
 ### Future Roadmap
 
-- [x] Sign-up and login functionality
+- [x] Sign-up and login functionality(login does not work for now )
 - [x] Save and display user symptoms
 - [ ] Display user info in a profile 
 - [x] Add basic units and levels
