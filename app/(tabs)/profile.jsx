@@ -75,18 +75,18 @@ export default function Profile() {
             <View style={styles.buttonContainer}>
                 <View style={styles.column}>
                     <TouchableOpacity style={styles.unitButton} onPress={gotouni1}>
-                        <Text style={styles.unitButtonText}>Unit 1</Text>
+                        <Text style={styles.unitButtonText}>Unit 1 - Stress</Text>
                     </TouchableOpacity>
                     <TouchableOpacity style={styles.unitButton} onPress={gotouni3}>
-                        <Text style={styles.unitButtonText}>Unit 3</Text>
+                        <Text style={styles.unitButtonText}>Unit 3 - Sleep disorders</Text>
                     </TouchableOpacity>
                 </View>
                 <View style={styles.column}>
                     <TouchableOpacity style={styles.unitButton} onPress={gotouni2}>
-                        <Text style={styles.unitButtonText}>Unit 2</Text>
+                        <Text style={styles.unitButtonText}>Unit 2 - Anger issues</Text>
                     </TouchableOpacity>
                     <TouchableOpacity style={styles.unitButton} onPress={gotouni4}>
-                        <Text style={styles.unitButtonText}>Unit 4</Text>
+                        <Text style={styles.unitButtonText}>Unit 4 - Anxiety</Text>
                     </TouchableOpacity>
                 </View>
             </View>
